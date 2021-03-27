@@ -5,10 +5,10 @@
 }
 
 /* header styling */
-h1 {
+h3 {
   color: DarkCyan;
   font-family: Garamond, Georgia, "Times New Roman";
-  font-size: 300%;
+  font-size: 200%;
 }
 p {
   color: DarkGray;
