@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
 /* navbar */
-.navbar.navbar-default {
+a.navbar-brand {
     background-color: DarkCyan;
     font-family: Garamond, Georgia, "Times New Roman";
 }
 
 /* header styling */
-h1{
+h1 {
   color: DarkCyan;
   font-family: verdana;
   font-size: 300%;
@@ -20,6 +15,3 @@ p {
   font-family: Arial;
   font-size: 100%;
 }
-</style>
-
-</html>
