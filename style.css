@@ -15,4 +15,11 @@ p {
   font-family: Arial;
   font-size: 100%;
   padding: 10px;
+}    
+
+/* Set gray background color and 100% height */
+.sidenav {
+  padding-top: 20px;
+  background-color: #f1f1f1;
+  height: 100%;
 }
