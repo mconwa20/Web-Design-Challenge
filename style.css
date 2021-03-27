@@ -5,21 +5,20 @@
 
 /* navbar */
 .navbar.navbar-default {
-    background-color: #64CCAD;
-    border-color: #E7E7E7;
-    font-family: Garamond, Georgia, "Times New Roman"
+    background-color: DarkCyan;
+    font-family: Garamond, Georgia, "Times New Roman";
 }
 
 /* header styling */
 h1{
-  color: ;
+  color: DarkCyan;
   font-family: verdana;
   font-size: 300%;
 }
 p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
+  color: DarkGray;
+  font-family: Arial;
+  font-size: 100%;
 }
 </style>
 
