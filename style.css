@@ -4,12 +4,17 @@
     font-family: Garamond, Georgia, "Times New Roman";
 }
 
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: White;
+}
+
 /* header styling */
 h3 {
   color: DarkCyan;
   font-family: Garamond, Georgia, "Times New Roman";
   font-size: 150%;
-  ''
+  padding-top: 20px;
 }
 p {
   color: DarkGray;
