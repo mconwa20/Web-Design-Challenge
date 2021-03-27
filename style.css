@@ -1,5 +1,5 @@
 /* navbar */
-.navbar {
+.navbar-custom {
     background-color: DarkCyan;
     font-family: Garamond, Georgia, "Times New Roman";
 }
@@ -8,7 +8,7 @@
 h3 {
   color: DarkCyan;
   font-family: Garamond, Georgia, "Times New Roman";
-  font-size: 200%;
+  font-size: 150%;
   ''
 }
 p {
