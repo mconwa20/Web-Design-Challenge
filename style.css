@@ -9,6 +9,7 @@ h3 {
   color: DarkCyan;
   font-family: Garamond, Georgia, "Times New Roman";
   font-size: 200%;
+  ''
 }
 p {
   color: DarkGray;
@@ -22,4 +23,10 @@ p {
   padding-top: 20px;
   background-color: #f1f1f1;
   height: 100%;
+}
+
+/* image styling */
+
+.thumbnail {
+  padding: 20px;
 }
