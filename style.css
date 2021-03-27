@@ -1,5 +1,5 @@
 /* navbar */
-a.navbar-brand {
+.navbar {
     background-color: DarkCyan;
     font-family: Garamond, Georgia, "Times New Roman";
 }
@@ -7,11 +7,12 @@ a.navbar-brand {
 /* header styling */
 h1 {
   color: DarkCyan;
-  font-family: verdana;
+  font-family: Garamond, Georgia, "Times New Roman";
   font-size: 300%;
 }
 p {
   color: DarkGray;
   font-family: Arial;
   font-size: 100%;
+  padding: 10px;
 }
