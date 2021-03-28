@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-This analysis utilizes HTML, CSS, Bootstrap, Pandas, and Python to create a dashboard showing off some visualizations from an earlier weather analysis. The website is operationalized with GitHub Pages, and can be found at https://mconwa20.github.io/. 
+This analysis utilizes HTML, CSS, Bootstrap, Pandas, and Python to create a dashboard showing off some visualizations from an earlier weather analysis. The website is operationalized with GitHub Pages, and can be found at https://mconwa20.github.io/Web-Design-Challenge. 
 
 In this website, you can find 7 pages, including:
 1. A landing page (explanation of the project, links to each visualization page, sidebar containing linked preview images)
